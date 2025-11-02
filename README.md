@@ -8,9 +8,13 @@ It’s designed to give a **ChatGPT-like experience** with the flexibility to pl
 ## 🚀 Features
 
 ✅ **Interactive Streamlit UI** — Chat naturally with a clean interface
+
 ✅ **Real-time streaming** — See responses as they’re generated
+
 ✅ **Memory persistence** — Save and load past chats from the sidebar
+
 ✅ **Graph-based logic** — Message flow controlled via `graph.py`
+
 ✅ **Lightweight & customizable** — Extend easily for LLMs like Gemini, OpenAI, or local models
 
 ---
@@ -111,14 +115,14 @@ All saved chats are kept under the `conversations/` folder.
 streamlit
 ```
 
-> *(Include any LLM or utility libraries you use inside `graph.py`, e.g. `langchain`, `openai`, or `google-generativeai`.)*
-
 ---
 
 ## 🧑‍💻 Author
 
 **Maitry Chauhan**
+
 💡 Engineering Student | Exploring AI, LangChain & Chat Systems
+
 🔗 [GitHub](https://github.com/<your-username>)
 
 ---
